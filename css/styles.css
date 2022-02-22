@@ -141,6 +141,10 @@ main {
     transform: rotate(180deg);
 }
 
+.attribution {
+    text-align: center;
+}
+
 .attribution, .attribution a {
     color: white;
 }
